@@ -9,9 +9,9 @@ require 'fileutils'
 prompt = TTY::Prompt.new
 
 version = File.open('VERSION', &:read).strip
-increment = prompt.select("#{version} bumps:", %w[major minor patch null])
+increment = prompt.select("#{version} bumps:", %w[no major minor patch])
 
-unless increment == 'null'
+unless increment == 'no'
   current, prerelease = version.split('-')
   major, minor, patch, *other = current.split('.')
   case increment
@@ -54,9 +54,16 @@ lock.each_key do |name|
 end
 
 dirname = [info[:name], info[:version]].join('_')
+
+FileUtils.rm_rf dirname, secure: true
+FileUtils.rm_f "#{dirname}.zip"
+
 FileUtils.mkdir_p dirname
 
 info = JSON.pretty_generate(info)
 File.open(File.join(dirname, 'info.json'), 'w') { |f| f.puts info }
 
 FileUtils.cp_r 'locale', dirname
+FileUtils.rm_f File.join(dirname, 'locale/zh-CN/.keep')
+
+system "zip -r #{dirname}.zip #{dirname}"
