@@ -14,3 +14,4 @@ rejects	废料
 distillation	蒸馏
 calcinated	煅烧
 kmaut	凯马特
+kerogen	油母质

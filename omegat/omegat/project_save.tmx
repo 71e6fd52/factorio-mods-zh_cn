@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mixture of oil and sand.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084509Z" creationid="x71e6fd52" creationdate="20200416T084509Z">
+        <seg>油和沙的混合物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A place for microorganisms to do their job.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032523Z" creationid="x71e6fd52" creationdate="20200416T032523Z">
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced small parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084227Z" creationid="x71e6fd52" creationdate="20200416T084227Z">
+        <seg>高级小部件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced smelting unit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090609Z" creationid="x71e6fd52" creationdate="20200415T090609Z">
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033155Z" creationid="x71e6fd52" creationdate="20200416T033155Z">
         <seg>铝瓷砖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amazing hydrocarbon catalyst.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084734Z" creationid="x71e6fd52" creationdate="20200416T084658Z">
+        <seg>神奇的烃催化剂</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Belt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084338Z" creationid="x71e6fd52" creationdate="20200416T084338Z">
+        <seg>传送带</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Benzene to combustion mixture (520°C)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
@@ -738,6 +770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T073300Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
         <seg>优化制铁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big oil patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084238Z" creationid="x71e6fd52" creationdate="20200416T084238Z">
+        <seg>大型油田</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025934Z" creationid="x71e6fd52" creationdate="20200416T025934Z">
         <seg>蓝酒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bolts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084335Z" creationid="x71e6fd52" creationdate="20200416T084335Z">
+        <seg>螺栓</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carbon black</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084323Z" creationid="x71e6fd52" creationdate="20200416T084323Z">
+        <seg>炭黑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carbon dioxide</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T023245Z" creationid="x71e6fd52" creationdate="20200415T084155Z">
@@ -1662,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coalbed methane recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084217Z" creationid="x71e6fd52" creationdate="20200416T084217Z">
+        <seg>煤层气体回收</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coarse classification</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T064108Z" creationid="x71e6fd52" creationdate="20200415T064108Z">
@@ -1776,8 +1840,8 @@
       <tuv lang="EN-US">
         <seg>Compress hydrogen</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063200Z" creationid="x71e6fd52" creationdate="20200415T063200Z">
-        <seg>Compress氢气</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084146Z" creationid="x71e6fd52" creationdate="20200415T063200Z">
+        <seg>压缩氢气</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2208,8 @@
       <tuv lang="EN-US">
         <seg>Crude oil to combustion mixture (500°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Crude oil混烧 (500°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083951Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>原油混烧 (500°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081129Z" creationid="x71e6fd52" creationdate="20200415T081129Z">
         <seg>粉碎的镍矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crushed oil sand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084249Z" creationid="x71e6fd52" creationdate="20200416T084249Z">
+        <seg>粉碎的油砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dirty but good.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084609Z" creationid="x71e6fd52" creationdate="20200416T084609Z">
+        <seg>脏但是好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dirty syngas</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074402Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
@@ -2910,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhanced coalbed methane recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084212Z" creationid="x71e6fd52" creationdate="20200416T084212Z">
+        <seg>增强煤层气体回收</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment chassis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080849Z" creationid="x71e6fd52" creationdate="20200415T080849Z">
@@ -3010,6 +3098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075634Z" creationid="x71e6fd52" creationdate="20200415T061940Z">
         <seg>开采</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exotic alloy used as a catalyst.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084647Z" creationid="x71e6fd52" creationdate="20200416T084647Z">
+        <seg>用作催化剂的奇异合金</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,10 +3790,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel oil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083852Z" creationid="x71e6fd52" creationdate="20200416T083852Z">
+        <seg>燃油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuel oil to combustion mixture (800°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Fuel oil混烧 (800°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083852Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>燃油混烧 (800°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,6 +4430,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084416Z" creationid="x71e6fd52" creationdate="20200416T084341Z">
+        <seg>瓜尔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guar bean seeds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084421Z" creationid="x71e6fd52" creationdate="20200416T084421Z">
+        <seg>瓜尔种子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guar gum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084441Z" creationid="x71e6fd52" creationdate="20200416T084441Z">
+        <seg>瓜尔豆胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hard and breakable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034054Z" creationid="x71e6fd52" creationdate="20200416T034054Z">
@@ -4514,6 +4642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T030606Z" creationid="x71e6fd52" creationdate="20200416T030606Z">
         <seg>高纯度气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot stone brick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084506Z" creationid="x71e6fd52" creationdate="20200416T084506Z">
+        <seg>热石砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,6 +5042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
         <seg>Keep away ← your body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kerogen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084528Z" creationid="x71e6fd52" creationdate="20200416T084500Z">
+        <seg>油母质</seg>
       </tuv>
     </tu>
     <tu>
@@ -5320,8 +5464,8 @@
       <tuv lang="EN-US">
         <seg>Lubricant to combustion mixture (520°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Lubricant混烧 (520°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084027Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>润滑油混烧 (520°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,8 +5800,8 @@
       <tuv lang="EN-US">
         <seg>Make things bounce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063907Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
-        <seg>生产 things bounce.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084757Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
+        <seg>使物品弹起</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,6 +5810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090513Z" creationid="x71e6fd52" creationdate="20200415T090513Z">
         <seg>大型挖掘设施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Massive oil patch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084639Z" creationid="x71e6fd52" creationdate="20200416T084639Z">
+        <seg>巨型油田</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,6 +5834,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034008Z" creationid="x71e6fd52" creationdate="20200416T034008Z">
         <seg>中型储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium oil patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084237Z" creationid="x71e6fd52" creationdate="20200416T084237Z">
+        <seg>中型油田</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium oil patch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084637Z" creationid="x71e6fd52" creationdate="20200416T084631Z">
+        <seg>中型油田</seg>
       </tuv>
     </tu>
     <tu>
@@ -6158,18 +6326,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Naphtha</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083916Z" creationid="x71e6fd52" creationdate="20200416T083916Z">
+        <seg>石脑油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Naphtha to combustion mixture (650°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Naphtha混烧 (650°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083916Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>石脑油混烧 (650°C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Natural gas to to combustion mixture (600°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Natural gas to混烧 (600°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084128Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>天然气混烧 (600°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6386,6 +6562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025205Z" creationid="x71e6fd52" creationdate="20200416T025205Z">
         <seg>核样本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil sand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084229Z" creationid="x71e6fd52" creationdate="20200416T084229Z">
+        <seg>油砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -7126,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Py Petroleum Handling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084223Z" creationid="x71e6fd52" creationdate="20200416T084223Z">
+        <seg>PY-石油处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Py roboport MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034000Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
@@ -7790,6 +7982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rubber</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084336Z" creationid="x71e6fd52" creationdate="20200416T084336Z">
+        <seg>橡胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saline water</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T084221Z" creationid="x71e6fd52" creationdate="20200415T084221Z">
@@ -8070,10 +8270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shale oil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
+        <seg>页岩油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shale oil development</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
+        <seg>页岩油 development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shale oil to combustion mixture (500°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Shale oil混烧 (500°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>页岩油混烧 (500°C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8122,6 +8338,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032219Z" creationid="x71e6fd52" creationdate="20200416T032219Z">
         <seg>慢速混合、分离并浸渍原料至完美浓度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small oil patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084236Z" creationid="x71e6fd52" creationdate="20200416T084236Z">
+        <seg>小型油田</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084225Z" creationid="x71e6fd52" creationdate="20200416T084225Z">
+        <seg>小部件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8254,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something good under here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084613Z" creationid="x71e6fd52" creationdate="20200416T084613Z">
+        <seg>下面有好东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes roasting ores makes them better.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063907Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
@@ -8270,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084443Z" creationid="x71e6fd52" creationdate="20200416T084443Z">
+        <seg>烟煤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special alien plant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075823Z" creationid="x71e6fd52" creationdate="20200415T075240Z">
@@ -8282,6 +8530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090507Z" creationid="x71e6fd52" creationdate="20200415T090507Z">
         <seg>用于转换和生产基于燃料和石油的成分的特殊建筑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special small parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084228Z" creationid="x71e6fd52" creationdate="20200416T084228Z">
+        <seg>特殊小部件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,6 +8682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082622Z" creationid="x71e6fd52" creationdate="20200415T082156Z">
         <seg>准备组装的结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sulfur vein</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084243Z" creationid="x71e6fd52" creationdate="20200416T084243Z">
+        <seg>硫矿脉</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,8 +8880,8 @@
       <tuv lang="EN-US">
         <seg>Tar pit</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063527Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
-        <seg>焦油pit</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084239Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
+        <seg>焦油坑</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,6 +9070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tin-chromium alloy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084250Z" creationid="x71e6fd52" creationdate="20200416T084250Z">
+        <seg>锡铬合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Titanium tetrachloride</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084325Z" creationid="x71e6fd52" creationdate="20200416T084312Z">
+        <seg>四氯化钛 TiCl₄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make perfectly shaped plates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081849Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
@@ -8930,6 +9210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032654Z" creationid="x71e6fd52" creationdate="20200416T032654Z">
         <seg>解锁风化岩勘探</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock shale oil production and processing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
+        <seg>Unlock 页岩油 production and processing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9512,8 +9800,8 @@
       <tuv lang="EN-US">
         <seg>Xylenol to to combustion mixture (600°C)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
-        <seg>Xylenol to混烧 (600°C)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084111Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
+        <seg>二甲苯酚混烧 (600°C)</seg>
       </tuv>
     </tu>
     <tu>
