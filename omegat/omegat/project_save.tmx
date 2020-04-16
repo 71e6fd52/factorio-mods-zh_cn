@@ -72,16 +72,16 @@
       <tuv lang="EN-US">
         <seg>A mixture of oil and sand.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084509Z" creationid="x71e6fd52" creationdate="20200416T084509Z">
-        <seg>油和沙的混合物。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085011Z" creationid="x71e6fd52" creationdate="20200416T084509Z">
+        <seg>油和沙的混合物</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A place for microorganisms to do their job.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032523Z" creationid="x71e6fd52" creationdate="20200416T032523Z">
-        <seg>微生物发挥作用的地方。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084938Z" creationid="x71e6fd52" creationdate="20200416T032523Z">
+        <seg>微生物发挥作用的地方</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>A white crystalline powder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025505Z" creationid="x71e6fd52" creationdate="20200416T025505Z">
-        <seg>白色晶体状粉末。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084932Z" creationid="x71e6fd52" creationdate="20200416T025505Z">
+        <seg>白色晶体状粉末</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>Allows flow when output is under 80%.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034209Z" creationid="x71e6fd52" creationdate="20200416T034022Z">
-        <seg>当流出端小于80%时允许流。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085004Z" creationid="x71e6fd52" creationdate="20200416T034022Z">
+        <seg>当流出端小于80%时允许流动</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>An important industrial catalyst.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025414Z" creationid="x71e6fd52" creationdate="20200416T025414Z">
-        <seg>重要的工业催化剂。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084925Z" creationid="x71e6fd52" creationdate="20200416T025414Z">
+        <seg>重要的工业催化剂</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@
       <tuv lang="EN-US">
         <seg>Dispose unwanted gases into the atmosphere.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060141Z" creationid="x71e6fd52" creationdate="20200416T060141Z">
-        <seg>把不必要的气体排放到大气中。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085008Z" creationid="x71e6fd52" creationdate="20200416T060141Z">
+        <seg>把不必要的气体排放到大气中</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,8 +3176,8 @@
       <tuv lang="EN-US">
         <seg>Extract everything from tailings.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T083907Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从尾矿中提取一切。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084918Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从尾矿中提取一切</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,8 +3384,8 @@
       <tuv lang="EN-US">
         <seg>Factory to make almost all things but faster and pollute less due the automation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T091057Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
-        <seg>由于自动化技术的应用，自动化工厂可以生产几乎所有的东西，速度更快污染更少。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084923Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
+        <seg>由于自动化技术的应用，自动化工厂可以生产几乎所有的东西，速度更快污染更少</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,8 +3624,8 @@
       <tuv lang="EN-US">
         <seg>First item of borax line.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075818Z" creationid="x71e6fd52" creationdate="20200415T075225Z">
-        <seg>硼生产线的最初产物</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085221Z" creationid="x71e6fd52" creationdate="20200415T075225Z">
+        <seg>硼砂生产线的最初产物</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,14 +5034,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T011037Z" creationid="x71e6fd52" creationdate="20200416T011037Z">
         <seg>跳汰分选</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Keep away from your body.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Keep away ← your body.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7168,8 +7160,8 @@
       <tuv lang="EN-US">
         <seg>Produce fine dust from brute materials.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090933Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从粗加工材料中生产细小的灰尘。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084919Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从粗加工材料中生产细小的灰尘</seg>
       </tuv>
     </tu>
     <tu>
@@ -8144,8 +8136,8 @@
       <tuv lang="EN-US">
         <seg>Second step in the borax line.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075819Z" creationid="x71e6fd52" creationdate="20200415T075227Z">
-        <seg>硼生产线的第二步产物</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085224Z" creationid="x71e6fd52" creationdate="20200415T075227Z">
+        <seg>硼砂生产线的第二步产物</seg>
       </tuv>
     </tu>
     <tu>
@@ -8488,8 +8480,8 @@
       <tuv lang="EN-US">
         <seg>Something good under here.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084613Z" creationid="x71e6fd52" creationdate="20200416T084613Z">
-        <seg>下面有好东西。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085013Z" creationid="x71e6fd52" creationdate="20200416T084613Z">
+        <seg>下面有好东西</seg>
       </tuv>
     </tu>
     <tu>
@@ -9304,8 +9296,8 @@
       <tuv lang="EN-US">
         <seg>Used cartridge ready for CO2 extraction.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082701Z" creationid="x71e6fd52" creationdate="20200415T082609Z">
-        <seg>用过的盒用于提取 CO2。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084914Z" creationid="x71e6fd52" creationdate="20200415T082609Z">
+        <seg>用过的盒用于提取 CO2</seg>
       </tuv>
     </tu>
     <tu>
@@ -9360,8 +9352,8 @@
       <tuv lang="EN-US">
         <seg>Using grease to select the best ores and split from the rest using X-ray scans.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032433Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>使用润滑脂选择最佳矿石，然后使用 X 射线扫描从其余矿石中分离出来。</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084936Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>使用润滑脂选择最佳矿石，然后使用 X 射线扫描从其余矿石中分离出来</seg>
       </tuv>
     </tu>
     <tu>
