@@ -190,6 +190,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active provider shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033930Z" creationid="x71e6fd52" creationdate="20200416T033930Z">
+        <seg>中转供货棚 (紫棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active provider shed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060224Z" creationid="x71e6fd52" creationdate="20200416T060224Z">
+        <seg>中转供货棚 (紫棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active provider storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033909Z" creationid="x71e6fd52" creationdate="20200416T033909Z">
+        <seg>中转供货库 (紫库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active provider storehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060214Z" creationid="x71e6fd52" creationdate="20200416T060214Z">
+        <seg>中转供货库 (紫库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active provider warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033902Z" creationid="x71e6fd52" creationdate="20200416T033902Z">
+        <seg>中转供货仓 (紫仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active provider warehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060205Z" creationid="x71e6fd52" creationdate="20200416T060205Z">
+        <seg>中转供货仓 (紫仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add MK 02 - MK 04 PyFusion machines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032722Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
@@ -202,6 +250,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075631Z" creationid="x71e6fd52" creationdate="20200415T061935Z">
         <seg>增加基础能源发电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add burners.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060256Z" creationid="x71e6fd52" creationdate="20200416T060256Z">
+        <seg>增加燃烧器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds more sizes of storage tanks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060237Z" creationid="x71e6fd52" creationdate="20200416T060237Z">
+        <seg>添加更多类型的储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust Pymods' storage tanks capacity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060326Z" creationid="x71e6fd52" creationdate="20200416T060326Z">
+        <seg>调整 pymod 储液罐容量</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +414,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows flow only in the direction of the arrow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034213Z" creationid="x71e6fd52" creationdate="20200416T034019Z">
+        <seg>仅允许液体朝箭头方向流动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows flow when input is over 80%.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034212Z" creationid="x71e6fd52" creationdate="20200416T034020Z">
+        <seg>当流入端大于80%时允许流动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows flow when output is under 80%.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034209Z" creationid="x71e6fd52" creationdate="20200416T034022Z">
+        <seg>当流出端小于80%时允许流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also called wet soil.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081637Z" creationid="x71e6fd52" creationdate="20200415T081634Z">
         <seg>也称为湿土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aluminium tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033155Z" creationid="x71e6fd52" creationdate="20200416T033155Z">
+        <seg>铝瓷砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080201Z" creationid="x71e6fd52" creationdate="20200415T080201Z">
         <seg>沥青</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least you have something.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034044Z" creationid="x71e6fd52" creationdate="20200416T034044Z">
+        <seg>至少你有些东西</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +958,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buffer shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033949Z" creationid="x71e6fd52" creationdate="20200416T033935Z">
+        <seg>缓冲棚 (灰棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer shed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060225Z" creationid="x71e6fd52" creationdate="20200416T060225Z">
+        <seg>缓冲棚(灰棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033924Z" creationid="x71e6fd52" creationdate="20200416T033920Z">
+        <seg>缓冲库 (灰库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer storehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060216Z" creationid="x71e6fd52" creationdate="20200416T060216Z">
+        <seg>缓冲库(灰库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033927Z" creationid="x71e6fd52" creationdate="20200416T033905Z">
+        <seg>缓冲仓 (灰仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer warehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060206Z" creationid="x71e6fd52" creationdate="20200416T060206Z">
+        <seg>缓冲仓(灰仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build a phytoplankton farm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T005924Z" creationid="x71e6fd52" creationdate="20200416T005924Z">
@@ -938,6 +1098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074511Z" creationid="x71e6fd52" creationdate="20200415T074511Z">
         <seg>燃烧煤粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033842Z" creationid="x71e6fd52" creationdate="20200416T033842Z">
+        <seg>燃烧器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1248,8 @@
       <tuv lang="EN-US">
         <seg>Cargo pynobot MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Cargo pynobot MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033959Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>PY物流机器人 MK1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1354,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075927Z" creationid="x71e6fd52" creationdate="20200415T071130Z">
         <seg>廉价芳烃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cheap, low-capacity tank.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034007Z" creationid="x71e6fd52" creationdate="20200416T034007Z">
+        <seg>小型储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check valve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033516Z" creationid="x71e6fd52" creationdate="20200416T033516Z">
+        <seg>止回阀</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,8 +1520,8 @@
       <tuv lang="EN-US">
         <seg>Coal Processing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T061332Z" creationid="x71e6fd52" creationdate="20200415T061137Z">
-        <seg>煤炭工业</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033052Z" creationid="x71e6fd52" creationdate="20200415T061137Z">
+        <seg>PY-煤炭产业</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1608,8 @@
       <tuv lang="EN-US">
         <seg>Coal tile</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080206Z" creationid="x71e6fd52" creationdate="20200415T080206Z">
-        <seg>煤砖</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033146Z" creationid="x71e6fd52" creationdate="20200415T080206Z">
+        <seg>煤瓷砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,10 +1830,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concrete wall</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033715Z" creationid="x71e6fd52" creationdate="20200416T033715Z">
+        <seg>混凝土墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Construction pynobot MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Construction pynobot MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033955Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>PY建设机器人 MK1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,10 +2710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispose unwanted gases into the atmosphere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060141Z" creationid="x71e6fd52" creationdate="20200416T060141Z">
+        <seg>把不必要的气体排放到大气中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Divertor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T024655Z" creationid="x71e6fd52" creationdate="20200416T024655Z">
         <seg>偏滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does not have long range scanning abilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034116Z" creationid="x71e6fd52" creationdate="20200416T034116Z">
+        <seg>没有长距离扫描能力</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final destination of whatever you no longer need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034205Z" creationid="x71e6fd52" creationdate="20200416T034127Z">
+        <seg>你不再想要的东西的最终目的地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final step into niobium line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075832Z" creationid="x71e6fd52" creationdate="20200415T075332Z">
@@ -3902,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good capacity tank.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034016Z" creationid="x71e6fd52" creationdate="20200416T034016Z">
+        <seg>超大型储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good for boots.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081305Z" creationid="x71e6fd52" creationdate="20200415T081305Z">
@@ -4098,6 +4322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090623Z" creationid="x71e6fd52" creationdate="20200415T090623Z">
         <seg>培养有用的法沃加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard and breakable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034054Z" creationid="x71e6fd52" creationdate="20200416T034054Z">
+        <seg>硬而易碎</seg>
       </tuv>
     </tu>
     <tu>
@@ -4494,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Industry Items</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033041Z" creationid="x71e6fd52" creationdate="20200416T033041Z">
+        <seg>PY-工业项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infused nexelit cartridge</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080700Z" creationid="x71e6fd52" creationdate="20200415T080700Z">
@@ -4546,6 +4786,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T023334Z" creationid="x71e6fd52" creationdate="20200415T080159Z">
         <seg>氧化铁 Fe₂O₃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron oxide tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033126Z" creationid="x71e6fd52" creationdate="20200416T033126Z">
+        <seg>氧化铁瓷砖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033153Z" creationid="x71e6fd52" creationdate="20200416T033153Z">
+        <seg>铁瓷砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large radar structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034207Z" creationid="x71e6fd52" creationdate="20200416T034118Z">
+        <seg>大型雷达结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaching station MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
@@ -4960,8 +5224,8 @@
       <tuv lang="EN-US">
         <seg>Limestone tile</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080208Z" creationid="x71e6fd52" creationdate="20200415T080202Z">
-        <seg>石灰石砖</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033133Z" creationid="x71e6fd52" creationdate="20200415T080202Z">
+        <seg>石灰石瓷砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,6 +5294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local radar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033817Z" creationid="x71e6fd52" creationdate="20200416T033817Z">
+        <seg>微波雷达</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081137Z" creationid="x71e6fd52" creationdate="20200415T081137Z">
@@ -5038,10 +5310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Logistics warehousing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060232Z" creationid="x71e6fd52" creationdate="20200416T060232Z">
+        <seg>物流仓储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lubricant to combustion mixture (520°C)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
         <seg>Lubricant混烧 (520°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Made of pure wood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034048Z" creationid="x71e6fd52" creationdate="20200416T034048Z">
+        <seg>纯木做的</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,8 +5592,8 @@
       <tuv lang="EN-US">
         <seg>Make new tiles.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063907Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
-        <seg>生产 new tiles.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060253Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
+        <seg>生产新瓷砖</seg>
       </tuv>
     </tu>
     <tu>
@@ -5390,10 +5678,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medium capacity tank.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034008Z" creationid="x71e6fd52" creationdate="20200416T034008Z">
+        <seg>中型储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium rocks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082352Z" creationid="x71e6fd52" creationdate="20200415T082352Z">
         <seg>中型岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Megadar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033840Z" creationid="x71e6fd52" creationdate="20200416T033840Z">
+        <seg>激光雷达</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +6214,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nexelit tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033201Z" creationid="x71e6fd52" creationdate="20200416T033201Z">
+        <seg>錜瓷砖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nexelit-powered accumulator MK 01</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033739Z" creationid="x71e6fd52" creationdate="20200416T033739Z">
+        <seg>錜动力蓄电器 MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nexelit-powered accumulator MK 02</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033747Z" creationid="x71e6fd52" creationdate="20200416T033747Z">
+        <seg>錜动力蓄电器 MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nexelit-powered accumulator to store great amounts of energy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034103Z" creationid="x71e6fd52" creationdate="20200416T034103Z">
+        <seg>錜动力蓄电器可以储存大量的能量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next stage in Nexelit-powered accumulators to store huge amounts of energy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034114Z" creationid="x71e6fd52" creationdate="20200416T034114Z">
+        <seg>更大的錜动力蓄电器可以储存大量的能量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nichrome</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080412Z" creationid="x71e6fd52" creationdate="20200415T080412Z">
@@ -5978,6 +6322,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T083337Z" creationid="x71e6fd52" creationdate="20200415T083337Z">
         <seg>铌氧化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Niobium pipe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033658Z" creationid="x71e6fd52" creationdate="20200416T033546Z">
+        <seg>铌管道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Niobium pipe to ground</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033642Z" creationid="x71e6fd52" creationdate="20200416T033642Z">
+        <seg>铌地下管道</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overflow valve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033517Z" creationid="x71e6fd52" creationdate="20200416T033517Z">
+        <seg>溢流阀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCB factory MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
@@ -6242,6 +6610,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
         <seg>Particle accelerator MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033929Z" creationid="x71e6fd52" creationdate="20200416T033929Z">
+        <seg>按需供货棚 (红棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider shed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060218Z" creationid="x71e6fd52" creationdate="20200416T060218Z">
+        <seg>按需供货棚 (红棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033907Z" creationid="x71e6fd52" creationdate="20200416T033907Z">
+        <seg>按需供货库 (红库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider storehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060213Z" creationid="x71e6fd52" creationdate="20200416T060213Z">
+        <seg>按需供货库 (红库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033901Z" creationid="x71e6fd52" creationdate="20200416T033901Z">
+        <seg>按需供货仓 (红仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive provider warehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060204Z" creationid="x71e6fd52" creationdate="20200416T060204Z">
+        <seg>按需供货仓 (红仓)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T073712Z" creationid="x71e6fd52" creationdate="20200415T073712Z">
         <seg>土法制玻璃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poor man's wooden fence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033710Z" creationid="x71e6fd52" creationdate="20200416T033710Z">
+        <seg>土法制木栅栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -6704,8 +7128,88 @@
       <tuv lang="EN-US">
         <seg>Py roboport MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Py roboport MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034000Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>PY机器人指令平台 MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Py-GasVent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033849Z" creationid="x71e6fd52" creationdate="20200416T033849Z">
+        <seg>排气口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Py-Sinkhole</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033846Z" creationid="x71e6fd52" creationdate="20200416T033846Z">
+        <seg>污水池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (1 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033204Z" creationid="x71e6fd52" creationdate="20200416T033204Z">
+        <seg>储液罐 1000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (1.5 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033205Z" creationid="x71e6fd52" creationdate="20200416T033205Z">
+        <seg>储液罐 1500L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (3 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033206Z" creationid="x71e6fd52" creationdate="20200416T033206Z">
+        <seg>储液罐 3000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (4 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033207Z" creationid="x71e6fd52" creationdate="20200416T033207Z">
+        <seg>储液罐 4000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (5 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033207Z" creationid="x71e6fd52" creationdate="20200416T033207Z">
+        <seg>储液罐 5000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (6.5 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033208Z" creationid="x71e6fd52" creationdate="20200416T033208Z">
+        <seg>储液罐 6500L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (7 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033209Z" creationid="x71e6fd52" creationdate="20200416T033209Z">
+        <seg>储液罐 7000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PyTank (8 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033212Z" creationid="x71e6fd52" creationdate="20200416T033212Z">
+        <seg>储液罐 8000L</seg>
       </tuv>
     </tu>
     <tu>
@@ -6944,8 +7448,8 @@
       <tuv lang="EN-US">
         <seg>Recharging station MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Recharging station MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033958Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>PY机器人充电站 MK1</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,6 +7690,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081503Z" creationid="x71e6fd52" creationdate="20200415T081459Z">
         <seg>重型机器的代替组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033931Z" creationid="x71e6fd52" creationdate="20200416T033931Z">
+        <seg>按需集货棚 (蓝棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester shed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060224Z" creationid="x71e6fd52" creationdate="20200416T060224Z">
+        <seg>按需集货棚 (蓝棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033910Z" creationid="x71e6fd52" creationdate="20200416T033910Z">
+        <seg>按需集货库 (蓝库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester storehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060215Z" creationid="x71e6fd52" creationdate="20200416T060215Z">
+        <seg>按需集货库 (蓝库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033903Z" creationid="x71e6fd52" creationdate="20200416T033903Z">
+        <seg>按需集货仓 (蓝仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requester warehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060206Z" creationid="x71e6fd52" creationdate="20200416T060206Z">
+        <seg>按需集货仓 (蓝仓)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7526,6 +8078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033928Z" creationid="x71e6fd52" creationdate="20200416T033928Z">
+        <seg>棚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silver foam</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025225Z" creationid="x71e6fd52" creationdate="20200416T025225Z">
@@ -7702,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes you don't want to store that much.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034216Z" creationid="x71e6fd52" creationdate="20200416T034003Z">
+        <seg>有时你不想储存那么多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special alien plant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075823Z" creationid="x71e6fd52" creationdate="20200415T075240Z">
@@ -7754,6 +8322,94 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T022209Z" creationid="x71e6fd52" creationdate="20200416T022209Z">
         <seg>蒸汽交换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033154Z" creationid="x71e6fd52" creationdate="20200416T033154Z">
+        <seg>钢瓷砖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage shed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033929Z" creationid="x71e6fd52" creationdate="20200416T033929Z">
+        <seg>中转集货棚 (黄棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage shed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060218Z" creationid="x71e6fd52" creationdate="20200416T060218Z">
+        <seg>中转集货棚 (黄棚)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033908Z" creationid="x71e6fd52" creationdate="20200416T033908Z">
+        <seg>中转集货库 (黄库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage storehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060213Z" creationid="x71e6fd52" creationdate="20200416T060213Z">
+        <seg>中转集货库 (黄库)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage tanks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060228Z" creationid="x71e6fd52" creationdate="20200416T060228Z">
+        <seg>储液罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033901Z" creationid="x71e6fd52" creationdate="20200416T033901Z">
+        <seg>中转集货仓 (黄仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage warehouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060205Z" creationid="x71e6fd52" creationdate="20200416T060205Z">
+        <seg>中转集货仓 (黄仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033906Z" creationid="x71e6fd52" creationdate="20200416T033906Z">
+        <seg>库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores many, many items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060145Z" creationid="x71e6fd52" creationdate="20200416T060145Z">
+        <seg>存储许多许多项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores some items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060209Z" creationid="x71e6fd52" creationdate="20200416T060209Z">
+        <seg>存储一些项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Underflow valve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033543Z" creationid="x71e6fd52" creationdate="20200416T033543Z">
+        <seg>底流阀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock aneutronic fusion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032647Z" creationid="x71e6fd52" creationdate="20200416T032647Z">
@@ -8574,6 +9238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warehouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033859Z" creationid="x71e6fd52" creationdate="20200416T033859Z">
+        <seg>仓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warehousing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060231Z" creationid="x71e6fd52" creationdate="20200416T060231Z">
+        <seg>仓储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wash crude diamonds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T011139Z" creationid="x71e6fd52" creationdate="20200416T011139Z">
@@ -8734,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Why not dump your unwanted liquids there?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060138Z" creationid="x71e6fd52" creationdate="20200416T060138Z">
+        <seg>为什么不把多余的液体倾倒在那里呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wood processing unit MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T085148Z" creationid="x71e6fd52" creationdate="20200415T085105Z">
@@ -8762,6 +9450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085207Z">
         <seg>木材加工单元 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wooden fence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033712Z" creationid="x71e6fd52" creationdate="20200416T033712Z">
+        <seg>木栅栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -8818,6 +9514,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074259Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
         <seg>Xylenol to混烧 (600°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can collect the ashes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034202Z" creationid="x71e6fd52" creationdate="20200416T034202Z">
+        <seg>您可以收集灰尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You found a huge underground cave.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060132Z" creationid="x71e6fd52" creationdate="20200416T060132Z">
+        <seg>你发现了一个巨大的地下洞穴</seg>
       </tuv>
     </tu>
     <tu>
