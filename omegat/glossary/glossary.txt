@@ -1,4 +1,3 @@
-from	←	保留英文语序和 from 的清晰
 tailings dust	尾矿尘	tailings dust
 Nexelit	錜
 fawogae	法沃加
@@ -6,3 +5,12 @@ ralesias	若雷莎
 mukmouxes	慕课莫克斯
 glassware	玻璃器皿
 creosote	杂酚油
+borax	硼砂
+ash	灰尘
+xyhiphoe	吉泡尔
+concentrate	富集
+concentrate	浓缩
+rejects	废料
+distillation	蒸馏
+calcinated	煅烧
+kmaut	凯马特
