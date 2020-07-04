@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>Able to make steam and hydro cracking of several fluids.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063907Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
-        <seg>Able to 生产 steam and hydro cracking of several fluids.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034745Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
+        <seg>能够使多种流体发生蒸汽和水力裂解</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow you to extract underground resources anywhere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034900Z" creationid="x71e6fd52" creationdate="20200704T034900Z">
+        <seg>允许你在任何地方提取地下资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows flow only in the direction of the arrow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034213Z" creationid="x71e6fd52" creationdate="20200416T034019Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automated guar bean plantation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035009Z" creationid="x71e6fd52" creationdate="20200704T035009Z">
+        <seg>自动化瓜尔种植园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automated screener MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032843Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032235Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
         <seg>自动化地从杂粒中分离筛选原矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BTX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030721Z" creationid="x71e6fd52" creationdate="20200704T030721Z">
+        <seg>苯—甲苯—二甲苯混合物（BTX）</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,10 +790,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Better than steam boilers, but not as good as combustion turbines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035140Z" creationid="x71e6fd52" creationdate="20200704T035110Z">
+        <seg>比蒸汽锅炉好，但不如燃气轮机好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Better yield from iron</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T073300Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
         <seg>优化制铁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big oil derrick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033650Z" creationid="x71e6fd52" creationdate="20200704T033647Z">
+        <seg>大型石油井架</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +842,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T031632Z" creationid="x71e6fd52" creationdate="20200416T031632Z">
         <seg>生物反应器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bitumen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030416Z" creationid="x71e6fd52" creationdate="20200704T030416Z">
+        <seg>柏油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bitumen froth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030415Z" creationid="x71e6fd52" creationdate="20200620T083256Z">
+        <seg>柏油泡沫</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burns any flammable fluid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035132Z" creationid="x71e6fd52" creationdate="20200704T035132Z">
+        <seg>燃烧任何可燃液体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burns better, generates more energy and pollutes less.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090406Z" creationid="x71e6fd52" creationdate="20200415T090406Z">
@@ -1258,6 +1322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081739Z" creationid="x71e6fd52" creationdate="20200415T081739Z">
         <seg>也可以燃烧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be extracted with an oil sand extractor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034539Z" creationid="x71e6fd52" creationdate="20200704T034539Z">
+        <seg>可以用油砂提取器提取</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
         <seg>Chipshooter machine MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chloroethanol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032018Z" creationid="x71e6fd52" creationdate="20200704T032018Z">
+        <seg>氯乙醇</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,32 +1768,56 @@
       <tuv lang="EN-US">
         <seg>Coalbed extractor MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Coalbed extractor MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034049Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>煤层抽油机 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Coalbed extractor MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Coalbed extractor MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034051Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>煤层抽油机 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Coalbed extractor MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Coalbed extractor MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034053Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>煤层抽油机 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Coalbed extractor MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Coalbed extractor MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034054Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>煤层抽油机 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coalbed gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030911Z" creationid="x71e6fd52" creationdate="20200704T030911Z">
+        <seg>煤层气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coalbed methane extractor - Stage 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035336Z" creationid="x71e6fd52" creationdate="20200704T035336Z">
+        <seg>煤层气提取 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coalbed methane extractor - Stage 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035337Z" creationid="x71e6fd52" creationdate="20200704T035337Z">
+        <seg>煤层气提取 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +2002,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033715Z" creationid="x71e6fd52" creationdate="20200416T033715Z">
         <seg>混凝土墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Condensates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032417Z" creationid="x71e6fd52" creationdate="20200704T032417Z">
+        <seg>凝析油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Condensed distillates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033010Z" creationid="x71e6fd52" creationdate="20200704T033010Z">
+        <seg>浓缩馏分油</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2218,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T072414Z" creationid="x71e6fd52" creationdate="20200415T064207Z">
         <seg>木头转化为生物质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converter valve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034517Z" creationid="x71e6fd52" creationdate="20200704T034517Z">
+        <seg>转换阀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts non-py fluids to their py equivalent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035155Z" creationid="x71e6fd52" creationdate="20200704T035155Z">
+        <seg>将非 py 流体转换为等效的 py 流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts petroleum refinery distillates into high-octane liquid products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034817Z" creationid="x71e6fd52" creationdate="20200704T034817Z">
+        <seg>将炼油厂馏出物转化为高辛烷液体产品</seg>
       </tuv>
     </tu>
     <tu>
@@ -2784,8 +2928,8 @@
       <tuv lang="EN-US">
         <seg>Dirty syngas</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074402Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
-        <seg>Dirty 合成气</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032636Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
+        <seg>脏合成气</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drill deep to get that pre-oil thing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035055Z" creationid="x71e6fd52" creationdate="20200704T035055Z">
+        <seg>深钻以获得前置油。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill head</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080417Z" creationid="x71e6fd52" creationdate="20200415T080417Z">
@@ -2834,6 +2986,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075303Z" creationid="x71e6fd52" creationdate="20200415T075257Z">
         <seg>给星球钻个洞！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drilling fluid (type 1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032623Z" creationid="x71e6fd52" creationdate="20200704T032623Z">
+        <seg>钻井液（1 型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drilling fluid (type 2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032629Z" creationid="x71e6fd52" creationdate="20200704T032625Z">
+        <seg>钻井液（2 型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drilling fluid (type 3)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032632Z" creationid="x71e6fd52" creationdate="20200704T032626Z">
+        <seg>钻井液（3 型）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elitist bean.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081842Z" creationid="x71e6fd52" creationdate="20200620T081842Z">
+        <seg>优秀豆类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empty gas canister</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081145Z" creationid="x71e6fd52" creationdate="20200415T081145Z">
@@ -2962,6 +3146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T073815Z" creationid="x71e6fd52" creationdate="20200415T063236Z">
         <seg>清空甲醇罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty proto-tholins vessel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030839Z" creationid="x71e6fd52" creationdate="20200620T081703Z">
+        <seg>空原索林斯罐</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3202,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T030601Z" creationid="x71e6fd52" creationdate="20200416T030601Z">
         <seg>乙醇胺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethylene chlorohydrin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032351Z" creationid="x71e6fd52" creationdate="20200704T032108Z">
+        <seg>乙烯氯醇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethylene glycol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032012Z" creationid="x71e6fd52" creationdate="20200704T032012Z">
+        <seg>乙二醇</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,8 +3336,8 @@
       <tuv lang="EN-US">
         <seg>Extract and process tholins from alien atmospheres.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract and process tholins ← alien atmospheres.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035450Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>提取和处理异星大气中的索林斯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,40 +3400,40 @@
       <tuv lang="EN-US">
         <seg>Extract fluids from big oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract fluids ← big oil patches.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034848Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从大型油田中提取液体</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from massive oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract fluids ← massive oil patches.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034850Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从巨型油田中提取液体</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from medium oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract fluids ← medium oil patches.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034847Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从中型油田中提取液体</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from small oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract fluids ← small oil patches.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034846Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从小型油田中提取液体</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract gases directly from underground coal deposits.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract gases directly ← underground coal deposits.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034939Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>直接从地下煤层中提取气体</seg>
       </tuv>
     </tu>
     <tu>
@@ -3336,8 +3544,8 @@
       <tuv lang="EN-US">
         <seg>Extract tar from tar pits.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063527Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Extract焦油←焦油pits.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034943Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从焦油坑中提取焦油</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3666,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T081151Z" creationid="x71e6fd52" creationdate="20200415T063236Z">
         <seg>甲醇罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filled proto-tholins vessel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030829Z" creationid="x71e6fd52" creationdate="20200620T081709Z">
+        <seg>原索林斯罐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filled tholins vessel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081738Z" creationid="x71e6fd52" creationdate="20200620T081645Z">
+        <seg>索林斯罐</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finite Oil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035847Z" creationid="x71e6fd52" creationdate="20200704T035847Z">
+        <seg>有限油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First item of borax line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085221Z" creationid="x71e6fd52" creationdate="20200415T075225Z">
@@ -3778,6 +4010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090327Z" creationid="x71e6fd52" creationdate="20200415T090327Z">
         <seg>用于动力车间，FTS 反应堆等</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fracking rig</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034329Z" creationid="x71e6fd52" creationdate="20200704T034329Z">
+        <seg>压裂装置</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,32 +4240,32 @@
       <tuv lang="EN-US">
         <seg>Gas refinery MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Gas refinery MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034156Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>天然气精炼厂 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Gas refinery MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Gas refinery MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034157Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>天然气精炼厂 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Gas refinery MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Gas refinery MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034158Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>天然气精炼厂 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Gas refinery MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Gas refinery MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034201Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>天然气精炼厂 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4336,8 @@
       <tuv lang="EN-US">
         <seg>Gather tholins from the upper atmosphere.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Gather tholins ← the upper atmosphere.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034853Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从高层大气中收集索林斯</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good place to raise ulrics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081113Z" creationid="x71e6fd52" creationdate="20200620T081113Z">
+        <seg>饲养乌拉尔的好地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good use for ashes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080128Z" creationid="x71e6fd52" creationdate="20200415T080128Z">
@@ -4298,6 +4546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032854Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
         <seg>润滑脂摇床 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great amount of resources here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034614Z" creationid="x71e6fd52" creationdate="20200704T034614Z">
+        <seg>这里有大量的资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guar bean plantation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034248Z" creationid="x71e6fd52" creationdate="20200704T034248Z">
+        <seg>瓜尔种植园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guar bean seeds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084421Z" creationid="x71e6fd52" creationdate="20200416T084421Z">
@@ -4448,8 +4712,16 @@
       <tuv lang="EN-US">
         <seg>Guar gum</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084441Z" creationid="x71e6fd52" creationdate="20200416T084441Z">
-        <seg>瓜尔豆胶</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034238Z" creationid="x71e6fd52" creationdate="20200416T084441Z">
+        <seg>瓜尔胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Half oil, half rotting creature, but a good source of carbon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035810Z" creationid="x71e6fd52" creationdate="20200704T035810Z">
+        <seg>一半是油，一半是腐烂的生物，但是碳的好来源</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,32 +4744,32 @@
       <tuv lang="EN-US">
         <seg>Heavy oil refinery MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Heavy oil refinery MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033202Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重油炼油厂 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Heavy oil refinery MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Heavy oil refinery MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033205Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重油炼油厂 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Heavy oil refinery MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Heavy oil refinery MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033208Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重油炼油厂 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Heavy oil refinery MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Heavy oil refinery MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033211Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重油炼油厂 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -4558,6 +4830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hidden treasure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034522Z" creationid="x71e6fd52" creationdate="20200704T034522Z">
+        <seg>隐藏的宝藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High distillates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032905Z" creationid="x71e6fd52" creationdate="20200704T032905Z">
+        <seg>高馏分油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High potential fuel to use in advanced buildings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075734Z" creationid="x71e6fd52" creationdate="20200415T074808Z">
@@ -4614,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High-tech pumpjack</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033747Z" creationid="x71e6fd52" creationdate="20200704T033747Z">
+        <seg>高科技抽油泵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highly CO2-absorbant material.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082629Z" creationid="x71e6fd52" creationdate="20200415T082424Z">
@@ -4646,6 +4942,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot air</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030542Z" creationid="x71e6fd52" creationdate="20200704T030542Z">
+        <seg>热空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot reaction gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030901Z" creationid="x71e6fd52" creationdate="20200704T030901Z">
+        <seg>热反应气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot residual mixture</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033029Z" creationid="x71e6fd52" creationdate="20200704T033029Z">
+        <seg>热残余混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot stone brick</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084506Z" creationid="x71e6fd52" creationdate="20200416T084506Z">
@@ -4656,8 +4976,8 @@
       <tuv lang="EN-US">
         <seg>Hot syngas</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074402Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
-        <seg>Hot 合成气</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032655Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
+        <seg>热合成气</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032242Z" creationid="x71e6fd52" creationdate="20200416T032242Z">
         <seg>浓缩和提炼大量原料的大型场所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hydraulic fracturing technologies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035352Z" creationid="x71e6fd52" creationdate="20200704T035352Z">
+        <seg>水力压裂技术</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,32 +5216,32 @@
       <tuv lang="EN-US">
         <seg>Ionic upgrader MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Ionic upgrader MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033305Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>离子升级器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Ionic upgrader MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Ionic upgrader MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033307Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>离子升级器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Ionic upgrader MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Ionic upgrader MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033308Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>离子升级器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Ionic upgrader MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Ionic upgrader MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033310Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>离子升级器 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -5042,6 +5370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084528Z" creationid="x71e6fd52" creationdate="20200416T084500Z">
         <seg>油母质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kerogen processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035402Z" creationid="x71e6fd52" creationdate="20200704T035402Z">
+        <seg>油母质处理</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,66 +5606,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lets frack the planet!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035024Z" creationid="x71e6fd52" creationdate="20200704T035024Z">
+        <seg>让我们打破行星！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light oil processing - Stage 1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 processing - Stage MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035303Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油加工 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil processing - Stage 2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 processing - Stage MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035304Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油加工 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil processing - Stage 3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 processing - Stage MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035305Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油加工 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil processing - Stage 4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 processing - Stage MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035306Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油加工 4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil refinery MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 refinery MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034013Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油炼油厂 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil refinery MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 refinery MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034014Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油炼油厂 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil refinery MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 refinery MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034019Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油炼油厂 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Light oil refinery MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>轻油 refinery MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034020Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>轻油炼油厂 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074407Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
         <seg>轻油混烧(550°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like asphalt, but flexible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035444Z" creationid="x71e6fd52" creationdate="20200704T035444Z">
+        <seg>像沥青，但很柔韧</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5802,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060232Z" creationid="x71e6fd52" creationdate="20200416T060232Z">
         <seg>物流仓储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lots of sulfur.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034654Z" creationid="x71e6fd52" creationdate="20200704T034654Z">
+        <seg>大量硫磺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low distillates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032852Z" creationid="x71e6fd52" creationdate="20200704T032852Z">
+        <seg>低馏分油</seg>
       </tuv>
     </tu>
     <tu>
@@ -5798,10 +6166,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Massive amount or resources here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034650Z" creationid="x71e6fd52" creationdate="20200704T034634Z">
+        <seg>这里有巨量的资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Massive excavator to gather oil sands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034659Z" creationid="x71e6fd52" creationdate="20200704T034659Z">
+        <seg>收集油砂的大型挖掘机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Massive excavator.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090513Z" creationid="x71e6fd52" creationdate="20200415T090513Z">
         <seg>大型挖掘设施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Massive oil patch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033038Z" creationid="x71e6fd52" creationdate="20200704T033038Z">
+        <seg>巨型油田</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +6222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medium distillates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032902Z" creationid="x71e6fd52" creationdate="20200704T032902Z">
+        <seg>中馏分油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium oil derrick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033636Z" creationid="x71e6fd52" creationdate="20200704T033636Z">
+        <seg>中型石油井架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium oil patch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084237Z" creationid="x71e6fd52" creationdate="20200416T084237Z">
@@ -5850,6 +6258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082352Z" creationid="x71e6fd52" creationdate="20200415T082352Z">
         <seg>中型岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mega oil derrick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033654Z" creationid="x71e6fd52" creationdate="20200704T033654Z">
+        <seg>巨型石油井架</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,32 +6656,40 @@
       <tuv lang="EN-US">
         <seg>Multi-purpose cracker MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Multi-purpose cracker MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033326Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>多功能裂解器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multi-purpose cracker MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Multi-purpose cracker MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033328Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>多功能裂解器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multi-purpose cracker MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Multi-purpose cracker MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033329Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>多功能裂解器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multi-purpose cracker MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Multi-purpose cracker MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033331Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>多功能裂解器 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multipurpose ingredient, works on popsicles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T082020Z" creationid="x71e6fd52" creationdate="20200620T082020Z">
+        <seg>多用途原料，可用于冰棍</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T025530Z" creationid="x71e6fd52" creationdate="20200416T025530Z">
         <seg>多用途蛋白质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be placed on a sulfur vein.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035002Z" creationid="x71e6fd52" creationdate="20200704T035002Z">
+        <seg>必须放在硫矿脉上</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083916Z" creationid="x71e6fd52" creationdate="20200415T074259Z">
         <seg>石脑油混烧 (650°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Natural gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030420Z" creationid="x71e6fd52" creationdate="20200704T030420Z">
+        <seg>天然气</seg>
       </tuv>
     </tu>
     <tu>
@@ -6558,6 +6998,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oil burner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034504Z" creationid="x71e6fd52" creationdate="20200704T034504Z">
+        <seg>燃油炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil industry machinery - Stage 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035222Z" creationid="x71e6fd52" creationdate="20200704T035222Z">
+        <seg>石油工业机械 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil industry machinery - Stage 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035223Z" creationid="x71e6fd52" creationdate="20200704T035223Z">
+        <seg>石油工业机械 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil industry machinery - Stage 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035224Z" creationid="x71e6fd52" creationdate="20200704T035224Z">
+        <seg>石油工业机械 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil industry machinery - Stage 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035226Z" creationid="x71e6fd52" creationdate="20200704T035226Z">
+        <seg>石油工业机械 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oil sand</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T084229Z" creationid="x71e6fd52" creationdate="20200416T084229Z">
@@ -6568,32 +7048,48 @@
       <tuv lang="EN-US">
         <seg>Oil sand extractor MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Oil sand extractor MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033112Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>油砂提取器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Oil sand extractor MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Oil sand extractor MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033118Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>油砂提取器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Oil sand extractor MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Oil sand extractor MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033123Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>油砂提取器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Oil sand extractor MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Oil sand extractor MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033142Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>油砂提取器 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil sand slurry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T082454Z" creationid="x71e6fd52" creationdate="20200620T082454Z">
+        <seg>油砂浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil sands extraction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035230Z" creationid="x71e6fd52" creationdate="20200704T035230Z">
+        <seg>油砂提取</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,32 +7336,32 @@
       <tuv lang="EN-US">
         <seg>Petroleum gas processing - Stage 1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
-        <seg>石油气 processing - Stage MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035310Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
+        <seg>石油气加工 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Petroleum gas processing - Stage 2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
-        <seg>石油气 processing - Stage MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035311Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
+        <seg>石油气加工 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Petroleum gas processing - Stage 3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
-        <seg>石油气 processing - Stage MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035312Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
+        <seg>石油气加工 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Petroleum gas processing - Stage 4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
-        <seg>石油气 processing - Stage MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035313Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
+        <seg>石油气加工 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +7370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074414Z" creationid="x71e6fd52" creationdate="20200415T072359Z">
         <seg>石油气混烧(600°C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phosphorous acid distillation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081403Z" creationid="x71e6fd52" creationdate="20200620T081403Z">
+        <seg>Phosphorous acid 蒸馏</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,6 +7418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T031300Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
         <seg>浮游植物养殖场 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polybutadiene</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030532Z" creationid="x71e6fd52" creationdate="20200704T030532Z">
+        <seg>聚丁二烯</seg>
       </tuv>
     </tu>
     <tu>
@@ -7056,8 +7568,8 @@
       <tuv lang="EN-US">
         <seg>Pressurised hydrogen</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063200Z" creationid="x71e6fd52" creationdate="20200415T063200Z">
-        <seg>Pressurised氢气</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030908Z" creationid="x71e6fd52" creationdate="20200415T063200Z">
+        <seg>加压氢</seg>
       </tuv>
     </tu>
     <tu>
@@ -7126,10 +7638,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process gases into different products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034951Z" creationid="x71e6fd52" creationdate="20200704T034951Z">
+        <seg>将气体加工成不同的产品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process heavy oil products into different ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034706Z" creationid="x71e6fd52" creationdate="20200704T034706Z">
+        <seg>将重油产品加工成不同的产品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process lighter oil products into different ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034914Z" creationid="x71e6fd52" creationdate="20200704T034914Z">
+        <seg>将轻油产品加工成不同的产品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Process that uses a solvent to separate acid gases from valuable feed gas streams.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T085525Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
         <seg>使用溶剂从有价值的进料气流中分离酸性气体的过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process tholins into useful products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034908Z" creationid="x71e6fd52" creationdate="20200704T034908Z">
+        <seg>将索林斯加工成有用的产品</seg>
       </tuv>
     </tu>
     <tu>
@@ -7144,8 +7688,8 @@
       <tuv lang="EN-US">
         <seg>Processed light oil</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074328Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
-        <seg>Processed 轻油</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030855Z" creationid="x71e6fd52" creationdate="20200415T074328Z">
+        <seg>加工的轻油</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,6 +7722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075728Z" creationid="x71e6fd52" creationdate="20200415T074623Z">
         <seg>生产过氧化锂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proto tholins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030745Z" creationid="x71e6fd52" creationdate="20200704T030745Z">
+        <seg>原索林斯</seg>
       </tuv>
     </tu>
     <tu>
@@ -7224,32 +7776,32 @@
       <tuv lang="EN-US">
         <seg>Pumpjack MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Pumpjack MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033734Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>抽油泵 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pumpjack MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Pumpjack MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033735Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>抽油泵 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pumpjack MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Pumpjack MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033737Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>抽油泵 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pumpjack MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Pumpjack MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033738Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>抽油泵 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T022626Z" creationid="x71e6fd52" creationdate="20200416T022626Z">
         <seg>纯二级金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure natural gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032526Z" creationid="x71e6fd52" creationdate="20200704T032526Z">
+        <seg>纯天然气</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,10 +7846,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purified natural gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032522Z" creationid="x71e6fd52" creationdate="20200704T032522Z">
+        <seg>纯化天然气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purified syngas</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T074402Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
-        <seg>Purified 合成气</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032653Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
+        <seg>纯化合成气</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PyTank (10 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033457Z" creationid="x71e6fd52" creationdate="20200704T033457Z">
+        <seg>储液罐 10000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PyTank (3 kL)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033206Z" creationid="x71e6fd52" creationdate="20200416T033206Z">
@@ -7398,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PyTank (9 kL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033442Z" creationid="x71e6fd52" creationdate="20200704T033442Z">
+        <seg>储液罐 9000L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quenching Tower MK 01</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T084648Z" creationid="x71e6fd52" creationdate="20200415T084648Z">
@@ -7426,6 +8010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T084732Z" creationid="x71e6fd52" creationdate="20200415T084732Z">
         <seg>淬火塔 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raise ulrics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081346Z" creationid="x71e6fd52" creationdate="20200620T081346Z">
+        <seg>饲养乌拉尔</seg>
       </tuv>
     </tu>
     <tu>
@@ -7582,6 +8174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032506Z" creationid="x71e6fd52" creationdate="20200704T032506Z">
+        <seg>原料气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw nexelit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080424Z" creationid="x71e6fd52" creationdate="20200415T080424Z">
@@ -7634,6 +8234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033958Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
         <seg>PY机器人充电站 MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipe Selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035835Z" creationid="x71e6fd52" creationdate="20200704T035835Z">
+        <seg>配方选择器</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +8326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refined natural gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032510Z" creationid="x71e6fd52" creationdate="20200704T032510Z">
+        <seg>精炼天然气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refined syngas</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T084148Z" creationid="x71e6fd52" creationdate="20200415T074402Z">
@@ -7760,32 +8376,40 @@
       <tuv lang="EN-US">
         <seg>Reformer MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Reformer MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033353Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重整器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reformer MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Reformer MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033355Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重整器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reformer MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Reformer MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033356Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重整器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reformer MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Reformer MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033358Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>重整器 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regenerative heat exchanger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033545Z" creationid="x71e6fd52" creationdate="20200704T033545Z">
+        <seg>蓄热式换热器</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +8546,62 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060206Z" creationid="x71e6fd52" creationdate="20200416T060206Z">
         <seg>按需集货仓 (蓝仓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research methods to process lighter fractions of oil derivatives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035554Z" creationid="x71e6fd52" creationdate="20200704T035554Z">
+        <seg>研究处理轻质石油馏分的方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Research methods to process medium fractions of oil derivatives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035606Z" creationid="x71e6fd52" creationdate="20200704T035606Z">
+        <seg>研究处理中等石油馏分的方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Residual gas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032546Z" creationid="x71e6fd52" creationdate="20200704T032546Z">
+        <seg>残余气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Residual mixture</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033025Z" creationid="x71e6fd52" creationdate="20200704T033025Z">
+        <seg>残余混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Residual oil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032829Z" creationid="x71e6fd52" creationdate="20200704T032809Z">
+        <seg>渣油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retorter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034447Z" creationid="x71e6fd52" creationdate="20200704T034447Z">
+        <seg>干馏釜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reuse hot air to improve efficiency of furnaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034839Z" creationid="x71e6fd52" creationdate="20200704T034839Z">
+        <seg>重复利用热空气以提高熔炉的效率</seg>
       </tuv>
     </tu>
     <tu>
@@ -8272,8 +8952,8 @@
       <tuv lang="EN-US">
         <seg>Shale oil development</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
-        <seg>页岩油 development</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035232Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
+        <seg>页岩油开发</seg>
       </tuv>
     </tu>
     <tu>
@@ -8330,6 +9010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032219Z" creationid="x71e6fd52" creationdate="20200416T032219Z">
         <seg>慢速混合、分离并浸渍原料至完美浓度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small oil derrick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033633Z" creationid="x71e6fd52" creationdate="20200704T033633Z">
+        <seg>小型石油井架</seg>
       </tuv>
     </tu>
     <tu>
@@ -8478,6 +9166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something good under here, but bigger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034610Z" creationid="x71e6fd52" creationdate="20200704T034610Z">
+        <seg>下面有好东西， 更大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Something good under here.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T085013Z" creationid="x71e6fd52" creationdate="20200416T084613Z">
@@ -8498,6 +9194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034216Z" creationid="x71e6fd52" creationdate="20200416T034003Z">
         <seg>有时你不想储存那么多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Somewhere between wood and oil.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T082049Z" creationid="x71e6fd52" creationdate="20200620T082049Z">
+        <seg>在木头和油之间的某个东西</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,6 +9366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stripped distillates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T032947Z" creationid="x71e6fd52" creationdate="20200704T032947Z">
+        <seg>剥离馏分油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strong coating for the fiber.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T083655Z" creationid="x71e6fd52" creationdate="20200415T083655Z">
@@ -8674,6 +9386,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082622Z" creationid="x71e6fd52" creationdate="20200415T082156Z">
         <seg>准备组装的结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styrene</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030558Z" creationid="x71e6fd52" creationdate="20200704T030558Z">
+        <seg>苯乙烯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sulfur mine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034215Z" creationid="x71e6fd52" creationdate="20200704T034215Z">
+        <seg>硫磺矿</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,32 +9568,32 @@
       <tuv lang="EN-US">
         <seg>Tar extractor MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
-        <seg>焦油extractor MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034107Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
+        <seg>焦油提取器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tar extractor MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
-        <seg>焦油extractor MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034116Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
+        <seg>焦油提取器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tar extractor MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
-        <seg>焦油extractor MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034119Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
+        <seg>焦油提取器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tar extractor MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
-        <seg>焦油extractor MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034122Z" creationid="x71e6fd52" creationdate="20200415T063527Z">
+        <seg>焦油提取器 MK4</seg>
       </tuv>
     </tu>
     <tu>
@@ -8942,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final step for niobium ore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030303Z" creationid="x71e6fd52" creationdate="20200704T030303Z">
+        <seg>铌生产线的最后一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The results of extensive research of this alien ecosystem.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T082621Z" creationid="x71e6fd52" creationdate="20200415T082142Z">
@@ -9000,64 +9736,112 @@
       <tuv lang="EN-US">
         <seg>Tholin atmospheric extractor MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin atmospheric extractor MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033414Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯大气提取器 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin atmospheric extractor MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin atmospheric extractor MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033415Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯大气提取器 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin atmospheric extractor MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin atmospheric extractor MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033416Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯大气提取器 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin atmospheric extractor MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin atmospheric extractor MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033418Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯大气提取器 MK4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin plant MK 01</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin plant MK1</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033928Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯厂 MK1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin plant MK 02</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin plant MK2</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033929Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯厂 MK2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin plant MK 03</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin plant MK3</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033930Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯厂 MK3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Tholin plant MK 04</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T090132Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
-        <seg>Tholin plant MK4</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T033932Z" creationid="x71e6fd52" creationdate="20200415T085732Z">
+        <seg>索林斯厂 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T030725Z" creationid="x71e6fd52" creationdate="20200704T030725Z">
+        <seg>索林斯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins - Stage 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035239Z" creationid="x71e6fd52" creationdate="20200704T035239Z">
+        <seg>索林斯 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins - Stage 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035240Z" creationid="x71e6fd52" creationdate="20200704T035240Z">
+        <seg>索林斯 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins - Stage 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035241Z" creationid="x71e6fd52" creationdate="20200704T035241Z">
+        <seg>索林斯 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins - Stage 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035242Z" creationid="x71e6fd52" creationdate="20200704T035242Z">
+        <seg>索林斯 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tholins capsule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081756Z" creationid="x71e6fd52" creationdate="20200620T081735Z">
+        <seg>索林斯胶囊</seg>
       </tuv>
     </tu>
     <tu>
@@ -9086,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transfer stuff between points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T081829Z" creationid="x71e6fd52" creationdate="20200620T081826Z">
+        <seg>在点之间转移东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transform air pollution accumulated on cartridges into pure CO2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075732Z" creationid="x71e6fd52" creationdate="20200415T074746Z">
@@ -9098,6 +9890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T091140Z" creationid="x71e6fd52" creationdate="20200415T091140Z">
         <seg>把原木转换成有用的东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trap for dinosaurs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034553Z" creationid="x71e6fd52" creationdate="20200704T034553Z">
+        <seg>恐龙的陷阱</seg>
       </tuv>
     </tu>
     <tu>
@@ -9126,6 +9926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ulric corral</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200620T080949Z" creationid="x71e6fd52" creationdate="20200620T080949Z">
+        <seg>乌拉尔畜栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ultimate energy that can be extracted from a rotating black hole.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
@@ -9138,6 +9946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T033543Z" creationid="x71e6fd52" creationdate="20200416T033543Z">
         <seg>底流阀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock a new way to explore this planet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035414Z" creationid="x71e6fd52" creationdate="20200704T035405Z">
+        <seg>开启探索这个星球的新途径</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +10000,8 @@
       <tuv lang="EN-US">
         <seg>Unlock improved technologies to extract methane directly from underground coal deposits.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Unlock improved technologies to extract methane directly ← underground coal deposits.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035643Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>解锁直接从地下煤层中提取甲烷的高级技术</seg>
       </tuv>
     </tu>
     <tu>
@@ -9208,24 +10024,56 @@
       <tuv lang="EN-US">
         <seg>Unlock shale oil production and processing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T083938Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
-        <seg>Unlock 页岩油 production and processing.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035427Z" creationid="x71e6fd52" creationdate="20200416T083938Z">
+        <seg>解锁页岩油生产和加工</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unlock technologies to extract every single drop of fuel from this planet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Unlock technologies to extract every single drop of fuel ← this planet.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035715Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>解锁从这个星球上提取每一滴燃料的技术</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unlock technologies to extract methane directly from underground coal deposits.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063249Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>Unlock technologies to extract methane directly ← underground coal deposits.</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035631Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>解锁直接从地下煤层中提取甲烷的技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock the first level of oil related machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035417Z" creationid="x71e6fd52" creationdate="20200704T035409Z">
+        <seg>解锁第一级石油相关机器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock the fourth level of oil related machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035423Z" creationid="x71e6fd52" creationdate="20200704T035423Z">
+        <seg>解锁第四级石油相关机器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock the second level of oil related machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035419Z" creationid="x71e6fd52" creationdate="20200704T035412Z">
+        <seg>解锁第二级石油相关机器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock the third level of oil related machines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T035422Z" creationid="x71e6fd52" creationdate="20200704T035422Z">
+        <seg>解锁第三级石油相关机器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9242,6 +10090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T032649Z" creationid="x71e6fd52" creationdate="20200416T032649Z">
         <seg>解锁钒加工工艺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade very heavy petroleum products into lighter ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034725Z" creationid="x71e6fd52" creationdate="20200704T034725Z">
+        <seg>将非常重的石油产品升级为较轻的产品</seg>
       </tuv>
     </tu>
     <tu>
@@ -9864,8 +10720,8 @@
       <tuv lang="EN-US">
         <seg>makes fluid resource deposits finite and run out when mined (like solid resources)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T063907Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
-        <seg>生产s fluid resource deposits finite and run out when mined (like solid resources)</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T040003Z" creationid="x71e6fd52" creationdate="20200415T063907Z">
+        <seg>使流体资源储藏有限，并在开采时像固体资源一样耗尽</seg>
       </tuv>
     </tu>
     <tu>

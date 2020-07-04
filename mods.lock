@@ -1,13 +1,13 @@
 ---
 pyhightech:
-  version: 1.5.8
+  version: 1.6.1
 pyindustry:
-  version: 1.4.5
+  version: 1.4.7
 pycoalprocessing:
-  version: 1.7.4
+  version: 1.7.8
 pyfusionenergy:
   version: 1.6.3
 pypetroleumhandling:
-  version: 1.7.6
+  version: 1.8.2
 pyrawores:
-  version: 2.0.6
+  version: 2.0.9

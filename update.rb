@@ -10,6 +10,7 @@ FileUtils.touch 'mods.lock'
 lock = YAML.safe_load(File.open('mods.lock', &:read))
 lock ||= {}
 mods = File.open('mods', &:read).split("\n").map(&:strip)
+FileUtils.rm_rf('tmp')
 FileUtils.mkdir_p('tmp')
 FileUtils.mkdir_p('omegat/source')
 
@@ -35,7 +36,14 @@ mods.each do |mod|
   if File.file? full_filename
     FileUtils.cp full_filename, File.join('tmp', filename)
     system "unar tmp/#{filename} -q -o tmp -f"
-    system "cat tmp/#{mod.name}_#{newv}/locale/en/* >omegat/source/#{mod.name}.cfg"
+
+    if Dir.exist?("tmp/#{mod.name}_#{newv}/locale")
+      system "cat tmp/#{mod.name}_#{newv}/locale/en/* >omegat/source/#{mod.name}.cfg"
+    elsif Dir.exist?("tmp/#{mod.name}/locale")
+      system "cat tmp/#{mod.name}/locale/en/* >omegat/source/#{mod.name}.cfg"
+    else
+      puts "Error: Can't find locale file of #{mod.name}"
+    end
 
     lock[mod.name] ||= {}
     lock[mod.name]['version'] = newv.to_s

@@ -15,3 +15,5 @@ distillation	蒸馏
 calcinated	煅烧
 kmaut	凯马特
 kerogen	油母质
+Ulric	乌拉尔
+tholins	索林斯
