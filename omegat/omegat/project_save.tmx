@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070252Z" creationid="x71e6fd52" creationdate="20200719T070252Z">
+        <seg>空的空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable custom pymods resource generator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T091251Z" creationid="x71e6fd52" creationdate="20200415T091251Z">
@@ -3400,32 +3408,32 @@
       <tuv lang="EN-US">
         <seg>Extract fluids from big oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034848Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从大型油田中提取液体</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070218Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从大型油田中提取液体。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from massive oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034850Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从巨型油田中提取液体</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070221Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从巨型油田中提取液体。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from medium oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034847Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从中型油田中提取液体</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070215Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从中型油田中提取液体。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Extract fluids from small oil patches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200704T034846Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
-        <seg>从小型油田中提取液体</seg>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070212Z" creationid="x71e6fd52" creationdate="20200415T063249Z">
+        <seg>从小型油田中提取液体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T034054Z" creationid="x71e6fd52" creationdate="20200416T034054Z">
         <seg>硬而易碎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has alt mode use Shift-G to get natural gas from oil derricks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070203Z" creationid="x71e6fd52" creationdate="20200719T070203Z">
+        <seg>具有 alt 模式，使用 Shift-G 可从井架获得天然气。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7206,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orbital Factory MK01</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070121Z" creationid="x71e6fd52" creationdate="20200719T070121Z">
+        <seg>轨道工厂 MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orbital Factory MK02</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070125Z" creationid="x71e6fd52" creationdate="20200719T070125Z">
+        <seg>轨道工厂 MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orbital Factory MK03</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070128Z" creationid="x71e6fd52" creationdate="20200719T070128Z">
+        <seg>轨道工厂 MK3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orbital Factory MK04</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070130Z" creationid="x71e6fd52" creationdate="20200719T070130Z">
+        <seg>轨道工厂 MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organic matter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T080439Z" creationid="x71e6fd52" creationdate="20200415T080439Z">
@@ -7594,6 +7642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T010133Z" creationid="x71e6fd52" creationdate="20200416T010133Z">
         <seg>加压水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressurized hydrogen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070055Z" creationid="x71e6fd52" creationdate="20200719T070055Z">
+        <seg>加压氢气</seg>
       </tuv>
     </tu>
     <tu>
@@ -9214,6 +9270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Space platfrom section</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070323Z" creationid="x71e6fd52" creationdate="20200719T070323Z">
+        <seg>太空平台段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special alien plant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200415T075823Z" creationid="x71e6fd52" creationdate="20200415T075240Z">
@@ -10386,6 +10450,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200416T060231Z" creationid="x71e6fd52" creationdate="20200416T060231Z">
         <seg>仓储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warm stone brick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T065956Z" creationid="x71e6fd52" creationdate="20200719T065956Z">
+        <seg>暖石砖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warmer stone brick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="x71e6fd52" changedate="20200719T070040Z" creationid="x71e6fd52" creationdate="20200719T070040Z">
+        <seg>更暖的石砖</seg>
       </tuv>
     </tu>
     <tu>
