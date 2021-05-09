@@ -32,7 +32,13 @@ mods.each do |mod|
   end
 
   filename = "#{mod.name}_#{newv}.zip"
-  full_filename = File.join(ENV['HOME'], '.factorio/mods', filename)
+  full_filename =
+    if `uname -r`.include? 'microsoft-standard'
+      File.join('/mnt/c/Users/yahvk/AppData/Roaming/Factorio/mods', filename)
+    else
+      File.join(ENV['HOME'], '.factorio/mods', filename)
+    end
+
   if File.file? full_filename
     FileUtils.cp full_filename, File.join('tmp', filename)
     system "unar tmp/#{filename} -q -o tmp -f"

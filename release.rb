@@ -43,7 +43,7 @@ info = {
   contact: '71e6fd52 at gmail dot com',
   homepage: 'https://github.com/71e6fd52/factorio-mods-zh_cn',
   description: '71e6fd52 自用汉化',
-  factorio_version: '0.18',
+  factorio_version: '1.1',
   dependencies: [],
 }
 
