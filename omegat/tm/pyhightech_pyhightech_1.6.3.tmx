@@ -1,0 +1,2943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Py HighTech</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>PY之高新科技</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphate rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clay</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粘土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Melamine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>三聚氰胺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Melamine resin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>三聚氰胺树脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Urea</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>尿素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ceramic</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>陶瓷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Air-core inductors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电感器 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Toroidal inductors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电感器 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-frequency SMD inductors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电感器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ceramic capacitors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电容器 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Electrolytic capacitors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电容器 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multilayer SMD capacitors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电容器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-power resistors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电阻器 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Medium-power resistors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电阻器 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Low-power resistors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电阻器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Graphite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>石墨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vacuum tube</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电子管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diodes</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>二极管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMD diodes</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>贴片二极管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Transistors</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>晶体管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Microchips</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>微晶片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fiberboard</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纤维板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Formica</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>塑料装饰板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Printed circuit substrate (tier 1)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印刷电路基板 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Printed circuit substrate (tier 2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印刷电路基板 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Printed circuit substrate (tier 3)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印刷电路基板 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mounted circuit substrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>安装的电路基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Printed circuit substrate (tier 4)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印刷电路基板 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Simple circuit board</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电路板 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complex circuit board</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电路板 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-tech circuit board</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电路板 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powdered phosphate rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷矿粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lightly n-doped silicon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>轻掺杂N型半导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heavily n-doped silicon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>重掺杂N型半导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lightly p-doped silicon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>轻掺杂P型半导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heavily p-doped silicon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>重掺杂P型半导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare Earth Powder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth dust</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土粉尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth concentrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土精矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth oxides</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土氧化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phenol</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>苯酚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phenolic board</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>酚醛板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bakelite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>酚醛树脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Silicon wafer</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硅晶片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cermet</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>含陶合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crude cermet</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粗制含陶合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ferrochrome</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>铬铁合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Silicon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Glass fibers</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>玻璃纤维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bisphenol A (BPA)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>双酚 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Epoxy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>环氧树脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fiberglass</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>玻璃纤维板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Polydimethylsiloxane (PDMS)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>聚二甲硅氧烷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nickel core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>镍核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PDMS-graphene base</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>石墨烯基质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Graphene sheet</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>石墨烯片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Graphene roll</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>石墨烯卷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Processor core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>处理器核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Processor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphate glass</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷酸盐玻璃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High Flux core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高磁密铁芯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stone wool</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>岩棉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tin-rare-earth alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>再锡合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diode core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>二极管核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Capacitor core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电容器核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Capacitor terminal</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电容器终端电阻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fine carbon dust</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>精细碳尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Biopolymer</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>生物高聚物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Carbon nanotubes</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>碳纳米管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sodium silicate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硅酸钠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Silica powder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硅粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Colloidal silica</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硅胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanochip</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米芯片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Raw fiber</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粗纤维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fiber</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纤维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Microfiber</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>微纤维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sub-denier microfiber</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米级微纤维</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resorcinol</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>间苯二酚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RF gel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>间苯二酚-甲醛凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clear RF gel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>清晰的间苯二酚-甲醛凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Aerogel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>气凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Carbon aerogel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>碳气凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kondo substrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>康多尔基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kondo core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>康多尔核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kondo processor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>康多尔处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy fermion material</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>重费米子材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cobalt-chromium alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>钴铬合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit-silver matrix</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>铌-银矩阵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paradiagmatic resistor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>聚合电阻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zinc acetate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>乙酸锌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dry ralesia</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>干若雷莎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ralesia powder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>若雷莎粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zinc nanocompound</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>锌纳米化合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zinc nanocomplex</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>锌纳米复合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zinc oxide nanoparticles</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氧化锌纳米粒子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cross-section light emitting diode</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>截面发光二极管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>NdFeB alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>钕铁硼合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>NdFeB powder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>钕铁硼粉末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Neodymium magnet</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土磁体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconductor substrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超导体基片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconductor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fault current inductor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>故障电流感应器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanocrystalline core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supercapacitor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超级电容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supercapacitor core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超级电容器核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supercapacitor shell</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超级电容器外壳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Intelligent unit</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>智能单元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zipir carcass</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基皮尔尸体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bones</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>骨头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Skin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>皮肤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Meat</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fertiliser</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>肥料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rayon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>人造纤维丝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blood meal</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>血粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nylon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>尼龙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nylon parts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>尼龙零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Collagen</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>胶原蛋白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resilin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>节肢弹性蛋白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hyperelastic material</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超弹性物质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanowires</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanoelectromechanical systems</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米机电系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lithium chloride</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氯化锂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Volumetric energy capacitor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>体积能量电容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>YAG laser module</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>半导体激光模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Laser module</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>激光模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lithium niobate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>铌酸锂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Optical parametric oscillator</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>光学参量振荡器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Myoglobin</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>肌红蛋白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paramagnetic material</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>顺磁材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamagnetic material</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>抗磁材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconductor servomechanisms</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>超导体伺服机构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Harmonic absorber</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>谐波吸收器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pyrolytic carbon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>热解碳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nitrogen-vacancy center</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氮空位中心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quantum dots</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>量子点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pi Josephson junction</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>π-约瑟夫森结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Varphi Josephson junction</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>φ-约瑟夫森结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quantum vortex storage system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>量子涡旋存储系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bose-Einstein superfluid</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>玻色-爱因斯坦超流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Antimatter</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>反物质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crystallographic substrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>结晶基底</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proton donor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>质子供体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Proton receiver</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>质子接收器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dried meat</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>风干肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Matter</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>物质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Singularity energy extractor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>奇点能源萃取器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HighTech Locomotive MK01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高科技机车MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit reinforced wagon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃悬浮货车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit Battery</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃电池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Spent Nexelit Battery</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>耗尽的蓝坷垃电池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just clay.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>就是粘土而已，产于粘土坑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Primary polymer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>原发性聚合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The most basic resin.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>最基本的树脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic ceramic.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础陶瓷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First generation capacitors.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代电容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Great multipurpose capacitors, with a delicious liquid center!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>很棒的多功能电容器，液体夹心，好吃！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Don't let them bulge though...</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>不过不要让他们鼓起来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multilayer ceramic chip capacitors (MLCC) for complex PCBs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>用于复杂PCB的多层陶瓷贴片电容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First generation resistors, suitable for low-power applications only.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代电阻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thick film resistors, suitable for use in a wide range of applications.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>厚膜电阻器，应用广泛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Can withstand high currents without burning out.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>可以承受大电流而不会烧坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First generation inductors.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代电感器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cute metal donuts. May be inedible though.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>可爱的金属甜甜圈，不是广东人请不要尝试食用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-performance inductors in a small SMD package.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>采用小型SMD封装的高性能电感器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blessed with the power of thermionic electron emission.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代晶体管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic pressed wood.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础压缩木材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First generation PCBs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代电路板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First generation circuits.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>第一代电路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even more rare than on Earth.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>比在地球上更珍贵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First step of rare-earth element extraction.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土生产的第一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Second step of rare-earth element extraction.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土生产的第二步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Keep away from your body.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>远离你的身体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multipurpose resin.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>多用途树脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special gel to work into nanotech.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>为特殊技术工作使用的凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nickel-based core.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>镍的基础芯心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced material for several purposes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>几种用途的先进材料.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Resorcinol-formaldehyde gel.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>间苯二酚-甲醛凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build the powerful Kondo processor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>制造强大的康多尔处理器的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unconventional superconductor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>非常规超导体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Able to make 1PT of Kondo calculations per second.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>能每秒运行1pt的康多尔运算.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Neodimium-iron-boron alloy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>钕铁硼合金.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Can you prove you're self aware?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>你能证明你的目的吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It was killed with mercy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>它被仁慈地赐死.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced fiber with many uses.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>许多用途的高级纤维.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanomachines with a bright future.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>有着光明未来的纳米机器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Yttrium aluminum garnet crystal used for solid-state lasers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>钇铝石榴石晶体在固体激光器中的应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Muscle protein.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>肌肉蛋白.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bad burned graphene.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>烧坏的石墨烯.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It doesn't.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>它没有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit powered locomotive.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃动力机车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special energy unit made to power up the most modern transportation systems.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>特殊能源装置可为最现代化的运输系统提供动力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No energy left.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>您的余额不足，请及时充值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Methane</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>甲烷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Formaldehyde</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>甲醛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ammonia</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cyanic acid</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氰酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Black liquor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>黑色液体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tall oil</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>妥尔油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Benzene</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>苯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphorous acid</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>亚磷酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphoric acid</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphine gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷化氢气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Propene</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>丙烯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ethylene</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>乙烯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth slurry</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土泥浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cumene</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>异丙基苯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acetone</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>丙酮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Epichlorohydrin (ECH)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>环氧氯丙烷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chloromethane</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氯甲烷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dimethyldichlorosilane</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>二甲基二氯硅烷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dimethyl sulfide (DMS)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>二甲基硫醚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Methanesulfonic acid (MSA)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>甲磺酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Knallgas-bacteria</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>氢氧混合气细菌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Soaked gel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>浸泡凝胶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acrolein</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>丙烯醛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acetic acid</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>乙酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Raw ralesia extract</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>天然若雷莎萃取液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ralesia extract</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>若雷莎萃取液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blood</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Carbonyl sulfide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硫化碳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Etching solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蚀刻剂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nitrobenzene</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>硝基苯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ancient remains</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth bolide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土陨石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphate mine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷矿采掘机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth extractor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土萃取机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clay pit MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粘土坑 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clay pit MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粘土坑 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clay pit MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粘土坑 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Clay pit MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粘土坑 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Moondrop greenhouse MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>月落草温室 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Moondrop greenhouse MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>月落草温室 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Moondrop greenhouse MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>月落草温室 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Moondrop greenhouse MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>月落草温室 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fluidised bed reactor MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>流化床反应器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fluidised bed reactor MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>流化床反应器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fluidised bed reactor MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>流化床反应器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fluidised bed reactor MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>流化床反应器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Auog paddock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>奥格牧场</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Electronics factory MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电子厂 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Electronics factory MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电子厂 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Electronics factory MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电子厂 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Electronics factory MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>电子厂 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pulp mill MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纸浆厂MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pulp mill MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纸浆厂MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pulp mill MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纸浆厂MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pulp mill MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纸浆厂MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PCB factory MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印制板厂 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PCB factory MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印制板厂 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PCB factory MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印制板厂 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>PCB factory MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>印制板厂 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chipshooter machine MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>射片机 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chipshooter machine MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>射片机 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chipshooter machine MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>射片机 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Chipshooter machine MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>射片机 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molecular assembler MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米装配 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molecular assembler MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米装配 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molecular assembler MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米装配 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molecular assembler MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米装配 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cadaveric arum greenhouse MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>臭芋温室 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cadaveric arum greenhouse MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>臭芋温室 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cadaveric arum greenhouse MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>臭芋温室 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cadaveric arum greenhouse MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>臭芋温室 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kicalk plantation</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>凯什克种植园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Zipir Artificial reef</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基皮尔人工礁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-tech construction pynobot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高科技建设机器人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High-tech logistic pynobot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高科技物流机器人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quantum computer</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>量子计算机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Particle accelerator MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粒子加速器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Particle accelerator MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粒子加速器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Particle accelerator MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粒子加速器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Particle accelerator MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>粒子加速器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Singularity energy extractor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>奇点能源萃取器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Singularity energy extractor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>奇点能源萃取器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multipurpose Pipe</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>多用途管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multipurpose pipe to ground</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>地下多用途管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HighTech floating locomotive MK01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高科技机车MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit floating generic wagon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃悬浮货车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit floating generic fluid wagon</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃悬浮液罐车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Shy night creatures known as aougs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>被称为奥格的害羞的夜行生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remains of ancient life.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>生物遗骸，挖掘其骨胳可提取出磷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A gift from the sky.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>来自太空的礼物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to extract phosphate from phosphate-rich rocks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从含磷酸盐丰富的岩石中提取磷酸盐的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to extract all the rare-earth resources in the bolide.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从流星中提取所有稀土的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to mix and extract clay from ground.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从地面混合和提取粘土的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to mix and extract clay from ground.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从地面混合和提取粘土的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to mix and extract clay from ground.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从地面混合和提取粘土的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building to mix and extract clay from ground.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从地面混合和提取粘土的机器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to grow moondrops, an alien plant which produces methane.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植月落草的地方，月落草的种植没有若雷莎那样苛刻，但是它的体积很大，你需要把温室也造的大一些，并通过遮光罩调节内部的照明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to grow moondrops, an alien plant which produces methane.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植月落草的地方——这是一种生产甲烷的外来植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to grow moondrops, an alien plant which produces methane.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植月落草的地方——这是一种生产甲烷的外来植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to grow moondrops, an alien plant which produces methane.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植月落草的地方——这是一种生产甲烷的外来植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic fluidised bed reactor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础流化床反应器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic fluidised bed reactor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础流化床反应器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic fluidised bed reactor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础流化床反应器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic fluidised bed reactor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础流化床反应器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to make electronic components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>制造电子元件的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to make electronic components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>制造电子元件的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to make electronic components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>制造电子元件的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to make electronic components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>制造电子元件的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Further processing of organic based solids.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>进一步处理有机基固体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Further processing of organic based solids.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>进一步处理有机基固体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Further processing of organic based solids.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>进一步处理有机基固体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Further processing of organic based solids.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>进一步处理有机基固体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated PCB assembly machine.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>自动化印制电路板装配机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated PCB assembly machine.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>自动化印制电路板装配机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated PCB assembly machine.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>自动化印制电路板装配机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated PCB assembly machine.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>自动化印制电路板装配机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High speed component assembly.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速元件装配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High speed component assembly.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速元件装配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High speed component assembly.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速元件装配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High speed component assembly.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速元件装配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build nanomechanisms and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>用于构建纳米机制和组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build nanomechanisms and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>用于构建纳米机制和组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build nanomechanisms and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>用于构建纳米机制和组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build nanomechanisms and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>用于构建纳米机制和组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A greenhouse to grow the cadaveric arums, a smelly plant which produces sulfur-based gases.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植臭芋的温室, 这种恶臭的植物能生产含硫气体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A greenhouse to grow the cadaveric arums, a smelly plant which produces sulfur-based gases.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植臭芋的温室, 这种恶臭的植物能生产含硫气体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A greenhouse to grow the cadaveric arums, a smelly plant which produces sulfur-based gases.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植臭芋的温室, 这种恶臭的植物能生产含硫气体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A greenhouse to grow the cadaveric arums, a smelly plant which produces sulfur-based gases.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>种植臭芋的温室, 这种恶臭的植物能生产含硫气体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Very useful FLUFFY trees which provide high-quality fibers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>非常有用的蓬松树木，我们能从这里获取高质量的纤维.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A high-speed, high-cargo, low-energy advanced logistic robot to satisfy all your needs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速，高载，低耗的高级物流机器人，满足您的各种需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A high-speed, high-cargo, low energy advanced construction robot to satisfy all your needs.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高速，高载，低耗的高级建设机器人，满足您的各种需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to raise the peaceful Zipirs on dry land.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>在干燥土地上养殖温和的基皮尔的场所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Invest into space simulation instead of sending rockets.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>投资太空模拟，而不是发射火箭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ion implementation and nucleosynthesis.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>离子注入与核合成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ion implementation and nucleosynthesis.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>离子注入与核合成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ion implementation and nucleosynthesis.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>离子注入与核合成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ion implementation and nucleosynthesis.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>离子注入与核合成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Creates a mini black hole to extract rotational energy from the singularity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>创造一个微型黑洞来从奇点中提取旋转能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Keep it fed with any matter USING INSERTERS OR LOADERS.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>使用插入器或装载器使其与任何物质保持接触。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit powered locomotive.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃动力驱动的火车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit reinforced wagon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃加固货车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit reinforced fluid wagon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃加固液罐车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Basic electronics</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>基础电子学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced electronics</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高级电子学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Semiconductor doping</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>半导体掺杂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth technology</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Graphene technology</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>石墨烯技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanotechnology</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>纳米技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Aerogel</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>气凝胶技术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Earnshaw's theorem</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>恩绍定理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quantum computing</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>量子计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Penrose process</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>彭罗斯过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nucleosynthesis</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>核合成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hight Tech Trains MK01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>高科技火车MK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock basic electronic processes and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁基本电子流程和组件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock advanced electronic processes and components.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁高级电子流程和组件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock doping technology by vapor deposition.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>利用气相沉积技术解锁掺杂技术.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Give access to explore the rare-earth elements.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>提供探索稀土元素的途径.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock graphene technologies and production.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁石墨烯技术和生产.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock nanoscale components and technologies.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁纳米组件和技术.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock aerogel technology.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁气凝胶技术.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Classic inverse-square magnetic forces by gravitational fields.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>利用引力场演绎经典的平方反比磁力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock quantum technologies and the quantum computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁量子技术和量子计算机.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Entering into a dangerous area.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>由此，你将踏入一个危险的领域.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ultimate energy that can be extracted from a rotating black hole.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>从旋转的黑洞中提取的终极能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlocks the much more efficient nexelit powered trains.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>解锁效率更高的蓝坷垃动力火车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphate rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phosphate rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>磷矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rare-earth bolide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>稀土陨石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These are not the modules you are looking for</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>你在想peach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit improved fuels</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023727Z">
+        <seg>蓝坷垃电池</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

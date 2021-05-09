@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Screening kimberlite.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>筛选金伯利岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extract xyhiphoe blood from xyhiphoes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>来自藤壶的提取血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molluscs will love it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>软体动物会喜欢它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>First step in the molybdenum processing chain.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>首先粉碎成小块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Turn molybdenite powder into fine dust.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>进一步粉碎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Precipitated version of the ore.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>矿石的沉淀版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Py Fusion Energy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>PY之合成能源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolite rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crushed kimberlite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>粉碎金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crushed regolite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>粉碎风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite rejects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金伯利废品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite (grade 2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二级金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite (grade 3)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>三级金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pure kimberlite (grade 2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纯二级金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite residues</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金伯利残留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond rejects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石废品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite powder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿粉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite dust</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum concentrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼精矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum disulfide (MoS2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二硫化钼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum trioxide (MoO3)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>三氧化钼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum plate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sodium chlorate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氯酸钠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pentoxide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氧化钒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Super alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>超级合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Processed rejects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>加工废品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Industrial diamond</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>工业金刚石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crude diamond</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>粗金刚石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Washed diamond</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>洗过的金刚石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Calcinates</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>煅烧残留物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Serine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>丝氨酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Methyl acrylate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>丙烯酸甲酯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kmaut ration</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙粮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powdered regolite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>粉状风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolite dust</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nexelit matrix</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>蓝坷垃矩阵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Niobium-titanium alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>铌钛合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>NENBIT matrix</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>南波特矩阵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconducting wire</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>超导线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ferrite</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>铁氧体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coil core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>核心线圈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconducting coil</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>超导线圈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Magnetic core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>磁芯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deposited vanadium core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>沉积钒芯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Superconducting magnetic unit</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>超导磁单元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boron trioxide dust</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氧化硼尘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boron mixture</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>硼混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boron</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>硼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Boron carbide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>碳化硼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blanket chassis</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>隔离层底座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blanket</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>隔离层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Divertor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>偏滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wall shield</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>盾墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reinforced wall shield</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钢筋盾墙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Lead container</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>铅容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced coating</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>高级涂层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coated container</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>涂层容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nuclear sample</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>核样品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Control unit</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>控制单元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Silver-zinc alloy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>银锌合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Silver foam</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>泡沫银</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A rare and good molybdenum source.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>稀有好钼源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond-rich rock.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>盛产金刚石的岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Leftovers after advanced ore processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石废料，偶尔也能找出来一些能用的金刚石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Precipitated version of the ore.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>矿石的沉淀版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Commonly used as a dry lubricant due to its low friction and robustness.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>硫化钼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An important industrial catalyst.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氧化钼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A very important vanadium compound, widely used as an industrial catalyst.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>五氧化二钒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A white crystalline powder.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>次氯酸钠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An incredible multifunctional alloy for advanced machines and processes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>令人难以置信的多功能合金，可用于结构和催化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Industrial beauty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>工业之美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Multipurpose protein.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>一种氨基酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Food for kmauts.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙吃的罐头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phytoplankton</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite pulp</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum pulp</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vacuum</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>真空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xyhiphoe blood</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>藤壶血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressurised water</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压力水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wastewater</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>废水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanabins</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Blue liquor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>蓝酒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pulp (stage 1)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒浆 01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pulp (stage 2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒浆 02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pulp (stage 3)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒浆 03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pulp (stage 4)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒浆 04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium pulp (stage 5)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒浆 05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium precipitate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒沉淀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressurised vanadium pulp</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液压含钒流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadates</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒酸盐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Organic vanadates</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>有机钒酸盐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium concentrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒精矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Industrial solvent</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>工业溶剂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Used solvent</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>使用溶剂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Soda ash regeneration solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纯碱再生液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Acid strip solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>硫酸二甲酯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pregnant V2O5 acid solution</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>培育五氧化二钒的酸溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond tailings</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石尾矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond concentrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石精矿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite pulp</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金伯利岩混合浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond water concentrate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>富集金刚石浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grease</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>优质润滑油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond water (grade 1)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>大颗粒金刚石浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond water (grade 2)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>中等颗粒金刚石浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond water (grade 3)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>小颗粒金刚石浆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liquid nitrogen</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液氮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressurised air</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增压空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cold air</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>冷空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Purified air</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>过滤空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cold clean air</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>低温过滤空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liquid clean air</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液态过滤空气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Helium-rich gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>稀有气体-氦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dry gas stream</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>干燥吸附气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Alien bacteria</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>异星菌群 mk01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ethanolamine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>乙醇胺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Highly purified gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>高纯度气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gas stream</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>吸附气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liquified petroleum gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液化石油气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Crude helium</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>净化氦气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Helium</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Helium-3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氦-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hydrogen proton</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氢质子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liquid rich gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液态稀有气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rich gas</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>稀有气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Liquid helium</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液态氦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy water</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>重水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Deuterium</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>重氢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tritium</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressurised steam</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>高压蒸汽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Supercritical steam</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>临界蒸汽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xyhiphoe pool MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>藤壶池 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phytoplankton farm MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物养殖场</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phytoplankton farm MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物养殖场 MK 02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phytoplankton farm MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物养殖场 MK 03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Phytoplankton farm MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物养殖场 MK 04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressure pump MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压力管道泵 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Volcanic pipe</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>火山口（金伯利岩富集区）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolith site</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Agitator MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>搅拌器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thickener MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增稠器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hydrocyclone MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>水力旋流器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mixer MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>混合器 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond mine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石挖掘机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum mine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿挖掘机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated screener MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>自动筛选 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Secondary crusher MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二级破碎机 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Centrifugal pan MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>离心炉 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jig concentrator MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>跳汰机 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grease table MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>涂脂摇床 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolite mine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩挖掘机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compressor MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压缩机 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gene lab MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>基因实验室 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kmaut enclosure MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙围栏 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bioreactor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>生物反应器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gas processing unit MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>气体处理装置 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanomaterial factory MK 01</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纳米材料厂 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fusion reactor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>聚变反应堆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Aneutronic fusion reactor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>无中子核聚变反应堆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Heat exchanger</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>换热器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>High pressure turbine</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增压汽轮机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xyhiphoe pool MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>藤壶池 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressure pump MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压力管道泵 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Agitator MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>搅拌器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thickener MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增稠器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hydrocyclone MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>水力旋流器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mixer MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>混合器 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated screener MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>自动筛选 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Secondary crusher MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二级破碎机 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Centrifugal pan MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>离心炉 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jig concentrator MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>跳汰机 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grease table MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>涂脂摇床 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compressor MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压缩机 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gene lab MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>基因实验室 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kmaut enclosure MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙围栏 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gas processing unit MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>气体处理装置 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanomaterial factory MK 02</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纳米材料厂 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xyhiphoe pool MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>藤壶池 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressure pump MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压力管道泵 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Agitator MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>搅拌器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thickener MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增稠器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hydrocyclone MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>水力旋流器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mixer MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>混合器 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated screener MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>自动筛选 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Secondary crusher MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二级破碎机 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Centrifugal pan MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>离心炉 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jig concentrator MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>跳汰机 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grease table MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>涂脂摇床 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compressor MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压缩机 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gene lab MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>基因实验室 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kmaut enclosure MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙围栏 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gas processing unit MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>气体处理装置 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanomaterial factory MK 03</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纳米材料厂 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Xyhiphoe pool MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>藤壶池 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pressure pump MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压力管道泵 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Agitator MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>搅拌器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thickener MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>增稠器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Hydrocyclone MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>水力旋流器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mixer MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>混合器 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automated screener MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>自动筛选 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Secondary crusher MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>二级破碎机 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Centrifugal pan MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>离心炉 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Jig concentrator MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>跳汰机 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grease table MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>涂脂摇床 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compressor MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>压缩机 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gene lab MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>基因实验室 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kmaut enclosure MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>甲龙围栏 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gas processing unit MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>气体处理装置 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nanomaterial factory MK 04</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>纳米材料厂 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grow deep ocean alien molluscs that concentrate vanadium from water.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>从水中的深海异星软体动物体内生长有浓缩钒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Highly controlled enviroment to grow phytoplankton.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>培养用来喂养其他生物的藻类，通过紫外灯管的设置，使培养箱具有自净的功能，防止杂菌对所培养微生物的干扰，以实现藻类在最适合其生长的环境下生长，从而提高其品质、缩短培养周期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Highly controlled enviroment to grow phytoplankton.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物生长的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Highly controlled enviroment to grow phytoplankton.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物生长的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Highly controlled enviroment to grow phytoplankton.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浮游植物生长的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mix and agitate mixtures for complete homogenisation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>混合搅拌混合物以达到完全均匀化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Concentrate fine particulates for further processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>将液体进行浓缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Provides pressurised products.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>真空泵提供压力产品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Separate solid/liquid pulps.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>处理、加工流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Slow-mix, separate and dip ingredients for perfect concentrations.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>慢速混合，分离和浸渍成分完美的浓度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powerful laser to break down very hard rocks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>强力激光击穿非常坚硬的岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Automatically split raw ores from other particles by screening.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>自动分割原矿石筛选其他粒子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Split, crush and prepare sub levels of crushing minerals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>破碎，粉碎和准备粉碎矿物第二道工序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Huge place to concentrate and refine large amounts of materials.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>浓缩和提炼大量原料的巨大场所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gravity concentrator for intermediate fluid-based ore processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>液基矿石中间加工使用的跳汰机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using grease to select the best ores and split from the rest using X-ray scans.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>使用油脂来选择最好的矿石，并通过X射线扫描从其他矿石中分离出来</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dig and extract regolites from this planet.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>从这个星球上挖掘和提取风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to create and maturate genetically altered organisms.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>使用成熟的遗传基因技术来改变生物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grow the friendly bug creatures.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>培育友善的昆虫生物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place for microorganisms to do their job.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>微生物生长的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A building that split gases from mixtures and vapor deposition.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>从混合物和汽相沉积中分离出的气体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A place to build nanoscale materials.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>建造纳米材料的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ready to fuse atoms!</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>准备原子融合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ready to fuse particles and atoms.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>准备融合粒子和原子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Use the heat in a useful fluid.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>使用有用流体中的热量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced mining facilities</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>高级采矿设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fusion energy - Stage 1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>聚变能源 MK01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fusion energy - Stage 2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>聚变能源 MK02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fusion energy - Stage 3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>聚变能源 MK03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fusion energy - Stage 4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>聚变能源 MK04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Vanadium processing</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钒加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenum processing</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Diamond mining</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金刚石开采</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolith mining</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩开采</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Helium processing</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>氦处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced ore production demands it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>高级矿石生产需要它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock basic fusion resource processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁基本融合资源加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock tritium fusion.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁氚聚变</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock helium-3 fusion.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁氦3融合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock aneutronic fusion.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁多重聚变反应融合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock vanadium processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁钒加工步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock molybdenum processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁钼加工步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock diamond processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁金刚石加工步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock regolite exploration.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁风化岩勘探</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock helium processing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>解锁氦处理步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Volcanic pipe</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>火山口（金伯利岩富集区）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Kimberlite rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>金伯利岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolite rock</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolites</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Molybdenite ore</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>钼矿石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Volcanic pipe</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>火山口（金伯利岩富集区）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regolites</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>风化岩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add MK 02 - MK 04 PyFusion machines</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" creationid="OmegaT Aligner" creationdate="20210509T023559Z">
+        <seg>开启mk2-mk4的PYFE的机器</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
